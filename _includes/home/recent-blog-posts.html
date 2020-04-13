@@ -1,0 +1,7 @@
+<h2>Recent posts</h2>
+      <p>Certainly I don't write as much as I'd like, sometimes just because time is limited but others because I'm just enjoying life outside the matrix.</p>
+      {% for post in site.posts limit:10 %}
+        <ul class="home-list">
+          <li><span>{{ post.date | date: "%m.%d.%Y" }} </span><a href="{{ post.url }}">{{ post.title }}</a></li>
+        </ul>
+      {% endfor %}

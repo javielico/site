@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Javier Sánchez · {{ page.html-title }}</title>
+    {%- include head.html -%}
+  </head>
+  <body>
+    {%- include navigation.html -%}
+
+    <main id="home">
+    {%- include home/about-me.html -%}
+
+    <section class="limit">
+      {%- include home/recent-blog-posts.html -%}
+
+      {%- include home/random-thoughts.html -%}
+    </section>
+    
+    {%- include home/elsewhere.html -%}
+    </main>
+
+    {%- include footer.html -%}
+  </body>
+</html>
