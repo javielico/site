@@ -2,7 +2,8 @@
 layout: home
 html-title: "Home"
 ---
-<img src="https://mastodon.me.uk/system/accounts/avatars/000/091/719/original/f9d0d717ab5e99d0.png?1573064449" alt="Javier Sánchez" class="profile">
+
+[![Javier Sánchez](https://mastodon.me.uk/system/accounts/avatars/000/091/719/original/f9d0d717ab5e99d0.png?1573064449 "Javier Sánchez"){: .profile }](/about/)
 
 I’m an immigrant in London with a love for good food, modern art galleries and filter coffee. Currently, working as software developer at [Soho House](https://www.sohohouse.com).
 
