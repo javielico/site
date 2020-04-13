@@ -1,6 +1,7 @@
 ---
 layout: listening
 html-title: "Listening"
+html-description: ""
 title: "Listening"
 introduction: "I keep a music diary of songs I discover or hear while out and about. Each year is also marked with a collection of my favorite newly released tracks and albums."
 ---

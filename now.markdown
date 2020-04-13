@@ -1,6 +1,7 @@
 ---
 layout: now
 html-title: "Now"
+html-description: ""
 title: "Now"
 introduction: "Instead of writing blog posts about minor updates in life, I’m dedicating a space here to writing about the things I’d tell friends and family were going on if I hadn’t seen them for a while."
 ---
