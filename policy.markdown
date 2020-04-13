@@ -15,9 +15,11 @@ When you visit this website, I don’t track you. That means that you will not f
 ## Sustainability
 I'm not perfect, but it is something that I take very seriously. I have a range of environmental, social and financial strategies to help reduce negative impact and give something positive back to the world. These include:
 
-* Try to avoid using physical stationery and printing documents wherever possible, after all, we live in the digital age.
+* This site runs using renewal green energy on [Positive Internet](https://positive-internet.com)'s platform.
 * I only buying products that I need, re-use by using second hand products where available and selling our unwanted items, and try to recycle or compost as much waste as possible.
 * Use low energy appliances wherever available such as low power single board computers.
 * Consume renewal green energy supplied by [Bulb](https://bulb.co.uk).
 * Support organisations that contribute and give back such as [Webarchitects Coop](https://www.webarchitects.coop) and [GreenNet](https://www.greennet.org.uk).
+* Try to avoid using physical stationery and printing documents wherever possible, after all, we live in the digital age.
+
 
