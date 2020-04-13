@@ -2,6 +2,7 @@
 layout: home
 html-title: "Home"
 html-description: ""
+html-canonical-url: ""
 ---
 
 [![Javier Sánchez](https://mastodon.me.uk/system/accounts/avatars/000/091/719/original/f9d0d717ab5e99d0.png?1573064449 "Javier Sánchez"){: .profile }](/about/)

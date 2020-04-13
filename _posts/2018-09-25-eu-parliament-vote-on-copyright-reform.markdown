@@ -1,6 +1,8 @@
 ---
 layout: post
 html-title: "EU Parliament vote on copyright reform"
+html-description: ""
+html-canonical-url: "writing/eu-parliament-vote-on-copyright-reform"
 title:  "EU Parliament vote on copyright reform"
 date:   2018-09-25 11:20:02 +0100
 categories: copyright

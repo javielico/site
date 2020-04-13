@@ -1,6 +1,8 @@
 ---
 layout: post
 html-title: "I have nothing to hide"
+html-description: ""
+html-canonical-url: "writing/i-have-nothing-to-hide"
 title:  "I have nothing to hide"
 date:   2018-09-10 17:20:02 +0100
 categories: human rights

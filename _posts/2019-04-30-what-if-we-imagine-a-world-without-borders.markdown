@@ -1,6 +1,8 @@
 ---
 layout: post
 html-title: "What if we imagine a world without borders?"
+html-description: ""
+html-canonical-url: "writing/what-if-we-imagine-a-world-without-borders"
 title:  "What if we imagine a world without borders?"
 date:   2019-04-30 11:20:02 +0100
 categories: human rights

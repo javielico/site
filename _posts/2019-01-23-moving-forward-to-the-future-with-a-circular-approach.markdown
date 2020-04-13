@@ -1,6 +1,8 @@
 ---
 layout: post
 html-title: "Moving forward to the future with a circular approach"
+html-description: ""
+html-canonical-url: "writing/moving-forward-to-the-future-with-a-circular-approach"
 title:  "Moving forward to the future with a circular approach"
 date:   2019-01-23 11:20:02 +0100
 categories: circular economy
