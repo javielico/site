@@ -21,5 +21,3 @@ I'm not perfect, but it is something that I take very seriously. I have a range 
 * Consume renewal green energy supplied by [Bulb](https://bulb.co.uk).
 * Support organisations that contribute and give back such as [Webarchitects Coop](https://www.webarchitects.coop) and [GreenNet](https://www.greennet.org.uk).
 * Try to avoid using physical stationery and printing documents wherever possible, after all, we live in the digital age.
-
-
