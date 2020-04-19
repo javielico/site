@@ -4,6 +4,7 @@ html-title: "About"
 html-description: ""
 html-canonical-url: "about/"
 title: "About"
+permalink: about/
 ---
 
 I’m an immigrant in London with a love for good food, modern art galleries and filter coffee. Currently, working as software developer at [Soho House](https://www.sohohouse.com).

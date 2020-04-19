@@ -6,6 +6,7 @@ title: "Policy"
 html-canonical-url: "policy/"
 introduction: ""
 date-last-update: "14 April 2020"
+permalink: policy/
 ---
 
 ## I don’t track you

@@ -5,6 +5,7 @@ html-description: ""
 title: "Listening"
 html-canonical-url: "listening/"
 introduction: "I keep a music diary of songs I discover or hear while out and about. Each year is also marked with a collection of my favorite newly released tracks and albums."
+permalink: listening/
 ---
 
 ## 2019

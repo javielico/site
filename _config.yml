@@ -30,7 +30,6 @@ twitter_username: jekyllrb
 github_username:  jekyll
 permalink: /writing/:title
 
-
 # Build settings
 theme: minima
 plugins:

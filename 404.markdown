@@ -3,6 +3,7 @@ layout: error
 html-title: "404 (Not Found)"
 html-description: ""
 html-canonical-url: "error/404-not-found"
+permalink: 404/
 ---
 
 # Oops!
