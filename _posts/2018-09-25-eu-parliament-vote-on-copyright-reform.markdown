@@ -6,6 +6,7 @@ html-canonical-url: "writing/eu-parliament-vote-on-copyright-reform"
 title:  "EU Parliament vote on copyright reform"
 date:   2018-09-25 11:20:02 +0100
 categories: copyright
+permalink: writing/eu-parliament-vote-on-copyright-reform/
 ---
 
 Lawmakers in the European Parliament have voted to turn their backs on key principles on which the internet was built; namely openness, decentralisation, and collaboration.

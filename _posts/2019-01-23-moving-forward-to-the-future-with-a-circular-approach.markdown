@@ -6,6 +6,7 @@ html-canonical-url: "writing/moving-forward-to-the-future-with-a-circular-approa
 title:  "Moving forward to the future with a circular approach"
 date:   2019-01-23 11:20:02 +0100
 categories: circular economy
+permalink: writing/moving-forward-to-the-future-with-a-circular-approach/
 ---
 
 I wanted to share with you today a little story that is very personal to me and close to my heart. I grew up in the South of Spain in the 90's, back then people were a lot more resourceful in my personal opinion, they didn't have very much but what they did have, it was precious, valuable and they didn't waste anything, it didn't matter if it was food, clothing or household appliances; things were actually build to last and if they did break, things were designed and built on such way that they could be repaired so their usage could continue on.

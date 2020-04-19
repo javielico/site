@@ -6,7 +6,7 @@ html-canonical-url: "writing/its-ok-to-leave-facebook"
 title:  "It's OK say goodbye to Facebook"
 date:   2018-09-05 11:20:02 +0100
 categories: surveillance capitalism
-permalink: writing/its-ok-to-leave-facebook
+permalink: writing/its-ok-to-leave-facebook/
 ---
 
 👋 Hola, it's great to have you here.

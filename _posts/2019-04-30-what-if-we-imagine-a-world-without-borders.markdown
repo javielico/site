@@ -6,6 +6,7 @@ html-canonical-url: "writing/what-if-we-imagine-a-world-without-borders"
 title:  "What if we imagine a world without borders?"
 date:   2019-04-30 11:20:02 +0100
 categories: human rights
+permalink: writing/what-if-we-imagine-a-world-without-borders/
 ---
 
 I'd like to ask you to suspend your disbelief and to imagine a world without borders. Often I think we don't use our imagination enough and that really distorts and restricts our sense of what is possible. Let's just imagine a world without borders, a world where we can cross territories without passports or awkward questions from the discriminative border police. I'm asking you to use your imagination, I'm not suggesting that you should just abandon reason altogether, obviously in order to argue for a world without borders we have to understand what borders are and what they do, we haven't always had borders in the same way we do today and also the way they work is actually very different from how they used to.

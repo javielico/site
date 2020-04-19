@@ -6,6 +6,7 @@ html-canonical-url: "writing/i-have-nothing-to-hide"
 title:  "I have nothing to hide"
 date:   2018-09-10 17:20:02 +0100
 categories: human rights
+permalink: writing/i-have-nothing-to-hide/
 ---
 
 We are living in remarkable times. We can make pictures of places and people we like by pressing a button on our phones; shop from our homes for literally anything from needles to cars; reach hundreds of thousands of people through social and blogging platforms, and consume information on any topic in any volume at any time of the day just with a tap of a fingers.
