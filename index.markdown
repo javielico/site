@@ -6,7 +6,7 @@ html-canonical-url: ""
 permalink: /
 ---
 
-[![Javier Sánchez](/assets/img/profile.png "Javier Sánchez"){: .profile }](/about/)
+[![Javier Sánchez](/assets/img/profile.png "Profile picture of Javier Sánchez"){: .profile }](/about/)
 
 I’m an immigrant in London with a love for good food, modern art galleries and filter coffee. Currently, working as software developer at [Soho House](https://www.sohohouse.com).
 
