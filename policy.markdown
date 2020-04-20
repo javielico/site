@@ -5,7 +5,7 @@ html-description: ""
 title: "Policy"
 html-canonical-url: "policy/"
 introduction: ""
-date-last-update: "14 April 2020"
+date-last-update: "20 April 2020"
 permalink: policy/
 ---
 
@@ -22,3 +22,11 @@ I'm not perfect, but it is something that I take very seriously. I have a range 
 * Consume renewal green energy supplied by [Bulb](https://bulb.co.uk).
 * Support organisations that contribute and give back such as [Webarchitects Coop](https://www.webarchitects.coop) and [GreenNet](https://www.greennet.org.uk).
 * Try to avoid using physical stationery and printing documents wherever possible, after all, we live in the digital age.
+
+# Newsletter
+I manage the newsletter using Buttondown with no tracking selected or included on my emails.
+
+When you sign up for my mailing list, I'm the only one who see your email address. I will never share it with anyone else and will use it to send you my newsletter until you unsubscribe.
+
+# Videos
+MP4 and Flash formatted videos are hosted on [FramaTube](https://framatube.org) using [PeerTube](https://joinpeertube.org).
