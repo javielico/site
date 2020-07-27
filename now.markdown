@@ -5,29 +5,26 @@ html-description: ""
 title: "Now"
 html-canonical-url: "now/"
 introduction: "Instead of writing blog posts about minor updates in life, I’m dedicating a space here to writing about the things I’d tell friends and family were going on if I hadn’t seen them for a while."
-date-last-update: "14 April 2020"
+date-last-update: "27 July 2020"
 permalink: now/
 ---
 
 ## Doing/Thinking
 
-* Thinking about what to do when we get ouf of quarantine, which restaurants to go, what food to eat, which sea side trip to make...
-* Day dreaming that quarantine will be over soon and I'll be able to go to work next week? Having face to face meetings?
-* Working on learning more SQL for my day to day work.
-* Helping [Migrateful](https://www.migrateful.org) to live stream cooking classes.
-* Going out for the authorised goverment walk hour during this lovely weather.
-* Brewing all the coffee from [Origin](https://origincoffee.co.uk) to see which one I like the most.
+* Thinking about Anna's birthday which is just a stone away.
+* Daydreaming about having lunch at [Teteria Almedina](https://www.tripadvisor.co.uk/Restaurant_Review-g187429-d3749939-Reviews-Teteria_Almedina-Almeria_Province_of_Almeria_Andalucia.html) which sadly we're not going to get to go this year.
+* Using my extra day to sharpen my dev skills.
+* Brewing all the coffee from [Carnival](https://www.carnivalcoffee.co.uk).
 
 ## What podcasts am I currently listening to?
 * Mostly [This American Life](https://overcast.fm/itunes201671138/this-american-life) as usual.
-* Added [Home Cooking](https://overcast.fm/itunes1503149669/home-cooking) by Samin Nosrat and Hrishikesh Hirway.
 * I've set [Today in Focus](https://overcast.fm/itunes1440133626/today-in-focus) on pause now to avoid news overload.
 
 ## Any tracks on a loop?
-* [Julia Jacklin - Head Alone](https://juliajacklin.bandcamp.com/track/head-alone)
-* [Moodymann - I Can't Kick This Feeling When It Hits](https://moodymann.bandcamp.com/track/i-cant-kick-this-feeling-when-it-hits)
+* [Ornella Vanoni - L'appuntamento](https://open.spotify.com/track/5PnEkOUOFnk0wMI71JwddQ?si=XUdRCbnmSHKEyiange4e7g)
+* [Mike Oldfield - To France](https://open.spotify.com/track/2qIWvQsisYABbppFUkBsdj?si=KwSMOFXCTNW5GsI4-P_Cjw)
 
 ## What coffee am I brewing?
-* [Origin - San Fermin](https://www.origincoffee.co.uk/collections/coffee/products/san-fermin)
-* [Grey Seal Coffee - El Salvador, Cerro Las Ranas](https://www.greysealcoffee.co.uk/shop1/elsalvador)
+* [Carnival - Bukonzo Dream, Uganda](https://www.carnivalcoffee.co.uk/product-page/bukonzo-dream-uganda-230g)
+* [Perception - Ethiopia Adola](https://perceptioncoffee.co.uk/products/ethiopia-adola)
 
