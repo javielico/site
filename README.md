@@ -1,3 +1,3 @@
 # site
 
-This is my personal site, it runs on Jekyll :-)
+This is my personal site, it runs on Jekyll, yay! :-)
