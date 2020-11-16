@@ -13,7 +13,7 @@ permalink: now/
 
 * Thinking how [nice of a weekend](https://www.javi.me.uk/2020/11/07/earlier-on-this.html) we had before lockdown in Margate.
 * Daydreaming about having lunch at [Teteria Almedina](https://www.tripadvisor.co.uk/Restaurant_Review-g187429-d3749939-Reviews-Teteria_Almedina-Almeria_Province_of_Almeria_Andalucia.html) which sadly we're not going to get to go this year.
-* Mostly tring to staying on top of [Trailhead](https://www.javi.me.uk/2020/11/07/earlier-on-this.html) to skill up and keep current ones up-to-date.
+* Mostly tring to staying on top of [Trailhead](https://trailhead.salesforce.com) to skill up and keep current ones up-to-date.
 * What coffee to get next?
 * How come we've reached the end of the year so soon?
 
