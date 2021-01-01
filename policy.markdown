@@ -5,7 +5,7 @@ html-description: ""
 title: "Policy"
 html-canonical-url: "policy/"
 introduction: ""
-date-last-update: "20 April 2020"
+date-last-update: "Sat, 20 April 2020"
 permalink: policy/
 ---
 
