@@ -7,6 +7,29 @@ html-canonical-url: "listening/"
 introduction: "I keep a music diary of songs I discover or hear while out and about. Each year is also marked with a collection of my favorite newly released tracks and albums."
 permalink: listening/
 ---
+## 2020
+###  Favorite Albums
+* Michael Kiwanuka - Kiwanuka
+* Helado Negro - This Is How You Smile
+* The National - Sleep Well Beast
+* Caribou - You and I
+* Fenne Lily - Breach
+
+### Favorite Tracks
+* [Pop Tops- Mammy Blue](https://open.spotify.com/track/4yi6RAIiBPo7BhP5ViA3tl?si=5m1rmnpGTte8cwKG3TLU-g)
+* [Fenne Lily - I Used to Hate My Body But Now I Just Hate You ](https://open.spotify.com/track/5JHjeY4sULUqt8kqSbfTq0?si=32-vLdPaQCyOAtRuXK4DpA)
+* [Helado Negro - I Fell in Love](https://open.spotify.com/track/51y9N9jm8ykm0UrpaJ6J3s?si=z0bJprr3RjGkD8GEHMRv9g)
+* [Baxter Dury - I'm Not Your Dog](https://open.spotify.com/track/5XRtQIymThEQ9ruRNgk6Nu?si=h0bZQfbpSJ6BTDcnCMe_tA)
+* [Laurence Guy - Saw you for the First Time](https://open.spotify.com/track/3b9MUQ7uiQHhU420B6f8Ta?si=W5E9qCJpSpufe37dsN2h4g)
+* [Metronomy - The Look](https://open.spotify.com/track/6zfczP87XO2SxWlQtnjFNa?si=TA3kMCP9RSC68TQ5QvHMCQ)
+* [The War on Drugs - Pain](https://open.spotify.com/track/59P1nrdEImkAKa1nyW9X2e?si=Vg97z4urRE2_mJeJqUQgYA)
+* [Tame Impala - Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE?si=9C7T-5zVRBa-jYUQpeys8A)
+* [Jeanette - Frente a Frente](https://open.spotify.com/track/1puUKCqjfKz8e4YlH7RPSi?si=G4YzMr2pSv29gNMJL_QTZQ)
+* [Mike Oldfield - To France](https://open.spotify.com/track/2qIWvQsisYABbppFUkBsdj?si=LVXlHioKSGWLq18YZs6Tjg)
+* [Maria Dolores Pradera - Amarraditos](https://open.spotify.com/track/5M32xiMzttf3siyy2zrAPv?si=BfTtwXvqTmuH7Z4Mf5Hghw)
+* [Los Payos - María Isabel](https://open.spotify.com/track/6y1b0YZufCb63Mnv3fnlBY?si=pB-EUGfARLqDzonG87yFBg)
+* [Гая - Аман Яр](https://youtu.be/cvFIWWqZk_c)
+* [Диско - Мгновенье, Стой](https://www.youtube.com/watch?v=MXpxgil-kpw)
 
 ## 2019
 ###  Favorite Albums
