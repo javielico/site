@@ -1,0 +1,8 @@
+# Redirect with a 404
+/* /404/ 404
+
+# Redirects alias
+https://javi.pro* https://www.javiersanchez.net:splat 301!
+https://www.javi.pro* https://www.javiersanchez.net:splat 301!
+https://javi.nom.es* https://www.javiersanchez.net:splat 301!
+https://www.javi.nom.es* https://www.javiersanchez.net:splat 301!
