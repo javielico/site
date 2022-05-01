@@ -5,20 +5,20 @@ html-description: ""
 title: "Now"
 html-canonical-url: "now/"
 introduction: "Instead of writing blog posts about minor updates in life, I’m dedicating a space here to writing about the things I’d tell friends and family were going on if I hadn’t seen them for a while."
-date-last-update: "Sat, 26 February 2022"
+date-last-update: "Sun, 01 May 2022"
 permalink: now/
 ---
 
 ## Doing/Thinking
 
-* Thinking about what's happening in Ukraine
-* Trying to find a good coffee subscription to join this year
-* Day dreaming about being in the beach
+* Ordering more coffee from Hasbean
+* Trying to sharpen my skills on top down communication
+* Planning our summer break
 
 ## What podcasts am I currently listening to?
 * Mostly [This American Life](https://overcast.fm/itunes201671138/this-american-life) as usual.
 * As usual also keeping up with [Working Class History](https://podcasts.apple.com/gb/podcast/working-class-history/id1355066333)
-* Also started to listen to [The Trojan Horse Affair](https://www.nytimes.com/interactive/2022/podcasts/trojan-horse-affair.html)
+* Ocassionally trying to also fit in [Radiolab](https://www.wnycstudios.org/podcasts/radiolab) there's always something interesting!
 
 ## Any tracks on a loop?
 * [Ismaël Lô - Tajabone](https://open.spotify.com/track/2dBAE5M2I43LeyHeF4MMvc?si=ffd49764392e4615)
@@ -28,4 +28,6 @@ permalink: now/
 * [Alberto Cortez - No soy de aquí, ni soy de allá](https://open.spotify.com/track/54vgIR3osHwRywPcBxVrv3?si=208b976a06df4b9b)
 
 ## What coffee am I brewing?
-* [Hardlines - Hard For You Blend](https://hard-lines.co.uk/)
+* [Hasbean - Phil-ter](https://www.hasbean.co.uk/products/phil-ter)
+* [Coffee by Tate - Peru Toro de Oro](https://shop.tate.org.uk/toro-de-oro-coffee-peru-250g/g1259.html?cgid=Coffee)
+* [Inside Job Coffee - Colombia La Batea](https://www.insidejobcoffee.com/product/la-batea-coffee-colombia/)
